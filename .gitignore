@@ -70,6 +70,8 @@ Generated\ Files/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+TestResults/
+coveragereport/
 
 # Approval Tests result files
 *.received.*
